@@ -1,0 +1,5 @@
+{
+  "name": "Fingerprint Login App",
+  "description": "A modern web application demonstrating a simulated fingerprint login flow, redirecting to a home page upon successful authentication. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
